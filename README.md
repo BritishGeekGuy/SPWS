@@ -1,2 +1,3 @@
 # SPWS
-A Simple and Tiny Python Web Server for non-coders
+SPWS is a Simple and Small Web Server written in Python
+WARNING! SINCE THIS IS JUST A FUN PROJECT, IT IS NOT SECURE! DO NOT USE THIS WEB SERVER PUBLICALLY, EITHER USE IT AS A CODE BASE OR A *LOCAL* SERVER
